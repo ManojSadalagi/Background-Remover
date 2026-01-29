@@ -20,5 +20,3 @@ A **Python‑based web application** to remove image backgrounds using AI‑powe
 
 (*Adjust this section if you use a specific model like `rembg`, `U‑2‑Net`, etc.*)
 
-## 📁 Repository Structure
-
